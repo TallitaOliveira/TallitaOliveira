@@ -1,4 +1,4 @@
-## Oiii eu sou a Tallita Oliveira, sou estudante de  tecnologia!
+## Oiii eu sou a Tallita Oliveira, estudante de  tecnologia!
 
 
 <div style="display: inline_block"><br>
